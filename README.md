@@ -9,7 +9,7 @@ a project aiming to translation [Internet Slang] by using RAG
 
 - 2024.9.15: 在做了在做了，近期会把web写完开放使用
 
-- 2024.10.2：在做了在做了，跑出sota来了，感觉可以整理整理发意林和故事汇了（×
+- 2024.11.2：在做了在做了，跑出sota来了，感觉可以整理整理发意林和故事汇了（×
 ## 一些示例
 
 ```bash
